@@ -125,3 +125,12 @@ footer {
 footer a {
   text-decoration: none;
 }
+
+.bio {
+  margin: 50px;
+  border-left-color: #292929;
+  border-left-width: 5px;
+  border-left-style: solid;
+  font-size: 25px;
+  width: 75%;
+}
